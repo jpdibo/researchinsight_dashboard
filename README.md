@@ -66,7 +66,7 @@ A modern, interactive company dashboard built with React and TypeScript that pro
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jpdibo/researchinsight_dashboard
    cd company_dashboard
    ```
 
