@@ -66,7 +66,7 @@ A modern, interactive company dashboard built with React and TypeScript that pro
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/jpdibo/researchinsight_dashboard
+   git clone https://github.com/jpdibo/researchinsight_dashboard.git
    cd company_dashboard
    ```
 
@@ -155,10 +155,6 @@ The dashboard is designed to easily integrate with:
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
 
