@@ -7,6 +7,7 @@ import FinancialStatements from './components/FinancialStatements';
 import BullBearDebate from './components/BullBearDebate';
 import ChartSection from './components/ChartSection';
 import PeerComparison from './components/PeerComparison';
+import NewsDocuments from './components/NewsDocuments';
 
 const theme = createTheme({
   palette: {
@@ -71,6 +72,11 @@ function App() {
             <Grid item xs={12}>
               <Box sx={{ mb: 3 }}>
                 <PeerComparison />
+              </Box>
+            </Grid>
+            <Grid item xs={12}>
+              <Box sx={{ mb: 3 }}>
+                <NewsDocuments />
               </Box>
             </Grid>
           </Grid>

@@ -148,17 +148,6 @@ The dashboard is designed to easily integrate with:
 - Chart screenshots
 - Peer comparison data
 
-## Future Enhancements
-
-- [ ] Real-time data integration
-- [ ] Advanced charting options
-- [ ] Export to PDF/Excel
-- [ ] User authentication
-- [ ] Custom dashboard layouts
-- [ ] Mobile app version
-- [ ] API endpoints for data
-- [ ] Advanced filtering options
-
 ## Contributing
 
 1. Fork the repository
